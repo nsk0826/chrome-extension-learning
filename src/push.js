@@ -2,3 +2,4 @@
 function push() {
   Push.create('更新情報');
 }
+push();
