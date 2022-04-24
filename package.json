@@ -1,0 +1,11 @@
+{
+  "name": "chrome-extension-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nsk0826/chrome-extension-learning.git",
+  "author": "nsk0826 <nsk.20160401@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "push.js": "^1.0.12"
+  }
+}
