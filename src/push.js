@@ -1,2 +1,2 @@
-import { Push } from "https://cdnjs.cloudflare.com/ajax/libs/push.js/0.0.11/push.min.js";
+import { Push } from "push.js";
 Push.create('更新情報');
