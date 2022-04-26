@@ -26,7 +26,7 @@ eval("/**\n * @license\n *\n * Push v1.0.9\n * =========\n * A compact, cross-br
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var push_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! push.js */ \"./node_modules/push.js/bin/push.min.js\");\n/* harmony import */ var push_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(push_js__WEBPACK_IMPORTED_MODULE_0__);\n\npush_js__WEBPACK_IMPORTED_MODULE_0__.Push.create('更新情報');\n\n//# sourceURL=webpack://chrome-extension-learning/./src/push.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var push_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! push.js */ \"./node_modules/push.js/bin/push.min.js\");\n/* harmony import */ var push_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(push_js__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction callPush() {\n  push_js__WEBPACK_IMPORTED_MODULE_0__.Push.create('更新情報');\n}\nwindow.onload = callPush;\n\n//# sourceURL=webpack://chrome-extension-learning/./src/push.js?");
 
 /***/ })
 
