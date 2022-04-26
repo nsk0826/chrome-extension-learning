@@ -1,2 +1,5 @@
 import { Push } from "push.js";
-Push.create('更新情報');
+function callPush() {
+  Push.create('更新情報');
+}
+window.onload = callPush;
