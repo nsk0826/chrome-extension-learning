@@ -7,7 +7,7 @@
     "matches": ["https://*/*"],
     "js": [
       "push.js",
-      "alert.js"
+      "alert.js"// 記載追加したけどファイルができてない
     ]
   }]
 }
